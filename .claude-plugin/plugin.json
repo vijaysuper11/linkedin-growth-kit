@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-growth-kit",
+  "version": "1.0.0",
+  "description": "Grow your LinkedIn profile, reach and followers with human-sounding comment drafts, profile optimization, content planning and weekly reviews. Draft-and-approve workflow; works with any AI tool.",
+  "author": { "name": "Vijay Mishra" },
+  "license": "MIT",
+  "keywords": ["linkedin", "personal-branding", "engagement", "content", "ai-agnostic", "agents-md"],
+  "skills": "./skills"
+}
