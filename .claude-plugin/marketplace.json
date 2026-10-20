@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-growth-kit",
+  "owner": { "name": "Vijay Mishra" },
+  "plugins": [
+    {
+      "name": "linkedin-growth-kit",
+      "source": "./",
+      "description": "Grow your LinkedIn profile, reach and followers with human-sounding comment drafts, profile optimization, content planning and weekly reviews. Draft-and-approve workflow."
+    }
+  ]
+}
